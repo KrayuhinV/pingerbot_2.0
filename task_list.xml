@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Task_list>
+  <Task id="1">
+    <Name>Google</Name>
+    <Url>https://www.google.ru/</Url>
+    <Attempts>100</Attempts>
+    <OkAttempts>98</OkAttempts>
+    <Time>50</Time>
+  </Task id="2">
+  	<Name>Yandex</Name>
+    <Url>https://www.yandex.ru/</Url>
+    <Attempts>100</Attempts>
+    <OkAttempts>98</OkAttempts>
+    <Time>50</Time>
+</Task_list>
